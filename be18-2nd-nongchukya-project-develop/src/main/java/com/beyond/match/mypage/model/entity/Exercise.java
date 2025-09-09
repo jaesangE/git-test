@@ -1,6 +1,4 @@
-package com.beyond.match.user.model.vo;
-
-
+package com.beyond.match.mypage.model.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;
@@ -9,16 +7,13 @@ import lombok.Setter;
 @Entity
 @Getter
 @Setter
-@Table(name = "level")
-public class Level {
+@Table(name = "exercise")
+public class Exercise {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
 
-    @Column(nullable = false)
+    @Column(nullable = false, unique = true)
     private String name;
-
-    @Column(columnDefinition = "TEXT")
-    private String description;
 }
