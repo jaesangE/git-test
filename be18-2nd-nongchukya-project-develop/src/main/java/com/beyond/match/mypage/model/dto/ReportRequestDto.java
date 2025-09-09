@@ -6,7 +6,7 @@ import lombok.Setter;
 @Getter
 @Setter
 public class ReportRequestDto {
-    private int targetUserId;  // 신고 대상자 ID
+    private String targetUserNickname;  // 신고 대상자 ID
     private String reason;
     private String description;
     private String evidenceUrl; // 첨부파일 URL

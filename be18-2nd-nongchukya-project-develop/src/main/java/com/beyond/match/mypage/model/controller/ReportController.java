@@ -5,6 +5,7 @@ import com.beyond.match.mypage.model.dto.ReportRequestDto;
 import com.beyond.match.mypage.model.dto.ReportResponseDto;
 import com.beyond.match.mypage.model.entity.Report;
 import com.beyond.match.mypage.model.service.ReportService;
+import com.beyond.match.user.model.repository.UserRepository;
 import com.beyond.match.user.model.vo.User;
 import com.beyond.match.jwt.auth.model.security.UserDetailsImpl;
 import lombok.RequiredArgsConstructor;
@@ -21,17 +22,19 @@ import java.util.stream.Collectors;
 public class ReportController {
 
     private final ReportService reportService;
-
+    private final UserRepository userRepository;
     // 1) 신고 등록 (로그인 유저 기준)
     @PostMapping
-    public BaseResponseDto<Report> createReport(
+    public BaseResponseDto<ReportResponseDto> createReport(
             @AuthenticationPrincipal UserDetailsImpl userDetails, // JWT에서 추출한 로그인 유저
             @RequestBody ReportRequestDto request
     ) {
         User loginUser = userDetails.getUser(); // 실제 User 객체
-        User targetUser = new User();
-        targetUser.setUserId(request.getTargetUserId());
-
+//        User targetUser = new User();
+//        targetUser.setUserId(request.getTargetUserId());
+        // 1) 닉네임으로 신고 대상자 조회
+        User targetUser = userRepository.findByNickname(request.getTargetUserNickname())
+                .orElseThrow(() -> new IllegalArgumentException("해당 닉네임 사용자 없음"));
         Report report = reportService.reportUser(
                 loginUser,
                 targetUser,
@@ -40,7 +43,7 @@ public class ReportController {
                 request.getEvidenceUrl()
         );
 
-        return new BaseResponseDto<>(HttpStatus.CREATED, report);
+        return new BaseResponseDto<>(HttpStatus.CREATED, ReportResponseDto.from(report));
     }
 
     // 2) 내가 한 신고 조회
