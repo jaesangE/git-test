@@ -344,7 +344,7 @@
 </details>
 
 # 5. 시스템 아키텍처
-<img width="1050" height="761" alt="아키텍처 그림" src="https://github.com/user-attachments/assets/68a01ca8-8549-4f75-bd12-3c26ccf7c3b2" />
+<img width="1061" height="490" alt="Architecture" src="https://github.com/jaesangE/git-test/blob/main/assets/Architecture.png?raw=true" />
 
 # 6. CI / CD Flow
 
