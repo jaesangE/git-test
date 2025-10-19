@@ -16,7 +16,7 @@
     <td><a target="_blank" href="https://github.com/jaesangE"><img src="https://avatars.githubusercontent.com/u/106606736?v=4" width="100px"><br>김재상</a></td>
     <td><a target="_blank" href="https://github.com/ydg010"><img src="https://avatars.githubusercontent.com/u/97106031?v=4" width="100px"><br>조용주</a> </td>
     <td><a target="_blank" href="https://github.com/leewonjin"><img src="https://avatars.githubusercontent.com/u/155633929?v=4" width="100px"><br>이원진</a> </td>
-    <td><a target="_blank" href="https://github.com/Amicitia"><img src="https://avatars.githubusercontent.com/u/152381600?v=4" width="100px"><br>최정우</a> </td>
+    <td><a target="_blank" href="https://github.com/JJJJungw"><img src="https://avatars.githubusercontent.com/u/152381600?v=4" width="100px"><br>최정우</a> </td>
   </tr>
 </table>
 
@@ -55,13 +55,20 @@
 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 
-✓ Infra & DevOps
+✓ DevOps
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"> ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FE4B74?style=for-the-badge&logo=argo&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/Docker%20Hub-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+
+✓ Infra 
+
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![ERDCloud](https://img.shields.io/badge/ERDCloud-0052CC?style=for-the-badge&logo=icloud&logoColor=white)
-
 <details>
 <summary><h1>3. 서비스 소개</h1></summary>
 
