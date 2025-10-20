@@ -568,22 +568,24 @@ spec:
 </details>
 
 <details>
-  <summary>6. 도커허브 백엔드 이미지 확인인</summary>
+  <summary>6. 도커허브 백엔드 이미지 확인</summary>
 
   <img src="https://github.com/jaesangE/git-test/blob/main/assets/12.%EB%8F%84%EC%BB%A4%ED%97%88%EB%B8%8C_%EB%B0%B1%EC%97%94%EB%93%9C_%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%99%95%EC%9D%B8.png?raw=true" width="800px">
   
 </details>
 
 <details>
-  <summary></summary>
+  <summary>7. 도커허브 프론트엔드 이미지 확인</summary>
+  
+  ![도커허브 프론트 이미지 확인](https://github.com/jaesangE/git-test/blob/main/assets/13.%EB%8F%84%EC%BB%A4%ED%97%88%EB%B8%8C_%ED%94%84%EB%A1%A0%ED%8A%B8_%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%99%95%EC%9D%B8.png?raw=true)
 </details>
 
 <details>
-  <summary></summary>
+  <summary>8. 백엔드 Deploy</summary>
 </details>
 
 <details>
-  <summary></summary>
+  <summary>9. 프론트엔드 Deploy</summary>
 </details>
 
 <details>
