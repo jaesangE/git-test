@@ -531,7 +531,117 @@ spec:
 
 # 8. 배포 결과
 
-<img src="https://github.com/jaesangE/git-test/blob/main/assets/2%EC%A0%A0%ED%82%A8%EC%8A%A4.gif?raw=true" width="1000px">
+<details>
+  
+  <summary>1. 변경사항 확인 및 커밋</summary>
+
+  <img src="https://github.com/jaesangE/git-test/blob/main/assets/1.%EB%B3%80%EA%B2%BD%EC%82%AC%ED%95%AD_%ED%99%95%EC%9D%B8_%EB%B0%8F_%EC%BB%A4%EB%B0%8B.png?raw=true" width="800px">
+
+</details>
+
+<details>
+  <summary>2. 젠킨스 확인</summary>
+
+  <img src="https://github.com/jaesangE/git-test/blob/main/assets/2%EC%A0%A0%ED%82%A8%EC%8A%A4.gif?raw=true" width="1000px">
+  
+</details>
+
+<details>
+  <summary>3. 테스트 코드 성공 유무 확인</summary>
+
+  <img src="https://github.com/jaesangE/git-test/blob/main/assets/3.Unit-test%EA%B2%B0%EA%B3%BC.png?raw=true" width="800px">
+
+</details>
+
+<details>
+  
+  <summary>4. CI 네임스페이스</summary>
+  
+  <img src="https://github.com/jaesangE/git-test/blob/main/assets/9.CI%EB%84%A4%EC%9E%84%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4.png?raw=true" width="800px">
+
+</details>
+
+<details>
+  <summary>5. 디스코드 알림</summary>
+  
+  <img src="https://github.com/jaesangE/git-test/blob/main/assets/4.%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C.png?raw=true" width="800px">
+</details>
+
+<details>
+  <summary>6. 도커허브 백엔드 이미지 확인인</summary>
+
+  <img src="https://github.com/jaesangE/git-test/blob/main/assets/12.%EB%8F%84%EC%BB%A4%ED%97%88%EB%B8%8C_%EB%B0%B1%EC%97%94%EB%93%9C_%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%99%95%EC%9D%B8.png?raw=true" width="800px">
+  
+</details>
+
+<details>
+  <summary></summary>
+</details>
+
+<details>
+  <summary></summary>
+</details>
+
+<details>
+  <summary></summary>
+</details>
+
+<details>
+  <summary></summary>
+</details>
+
+<details>
+  <summary></summary>
+</details>
+
+<details>
+  <summary></summary>
+</details>
+
+<details>
+  <summary></summary>
+</details>
+
+<details>
+  <summary></summary>
+</details>
+
+<details>
+  <summary></summary>
+</details>
+
+<details>
+  <summary></summary>
+</details>
+
+
+
+
+## 5. ArgoCD Sync
+<img src="https://github.com/jaesangE/git-test/blob/main/assets/5.ArcoCD_Sync.png?raw=true" width="800px">
+
+## 8. CD 네임스페이스
+<img src="https://github.com/jaesangE/git-test/blob/main/assets/8.CD%EB%84%A4%EC%9E%84%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4.png?raw=true" width="800px">
+
+## 9. CI 네임스페이스
+
+## 10. 버전업 전
+<img src="https://github.com/jaesangE/git-test/blob/main/assets/10.%EB%B2%84%EC%A0%84%EC%97%85_%EC%A0%84.png?raw=true" width="800px">
+
+## 11. 버전업 후
+<img src="https://github.com/jaesangE/git-test/blob/main/assets/11.%EB%B2%84%EC%A0%84%EC%97%85_%ED%9B%84.png?raw=true" width="800px">
+
+
+
+
+## 14. 백엔드 Deploy
+<img src="https://github.com/jaesangE/git-test/blob/main/assets/14.%EB%B0%B1%EC%97%94%EB%93%9Cdeploy.png?raw=true" width="800px">
+
+## 15. 프론트 Deploy
+<img src="https://github.com/jaesangE/git-test/blob/main/assets/15.%ED%94%84%EB%A1%A0%ED%8A%B8deploy.png?raw=true" width="800px">
+
+
+
 
 
 <img src="https://github.com/jaesangE/git-test/blob/main/assets/6.%EB%B0%B1%EC%97%94%EB%93%9CSync.gif?raw=true" width="1000px">
