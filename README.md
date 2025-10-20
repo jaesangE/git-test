@@ -347,9 +347,7 @@
 # 5. 시스템 아키텍처
 <img width="1061" height="490" alt="Architecture" src="https://github.com/jaesangE/git-test/blob/main/assets/Architecture.png?raw=true" />
 
-# 6. CI / CD Flow
-
-# 7. CI / CD 관련 스크립트
+# 6. CI / CD 관련 스크립트
 <details>
   <summary>Jenkins Pipline</summary>
 
@@ -529,7 +527,7 @@ spec:
   
 </details>
 
-# 8. 배포 결과
+# 7. CI / CD Flow & 배포 결과
 
 <details>
   
@@ -547,17 +545,17 @@ spec:
 </details>
 
 <details>
-  <summary>3. 테스트 코드 성공 유무 확인</summary>
-
-  <img src="https://github.com/jaesangE/git-test/blob/main/assets/3.Unit-test%EA%B2%B0%EA%B3%BC.png?raw=true" width="800px">
+  
+  <summary>3. CI 네임스페이스</summary>
+  
+  <img src="https://github.com/jaesangE/git-test/blob/main/assets/9.CI%EB%84%A4%EC%9E%84%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4.png?raw=true" width="800px">
 
 </details>
 
 <details>
-  
-  <summary>4. CI 네임스페이스</summary>
-  
-  <img src="https://github.com/jaesangE/git-test/blob/main/assets/9.CI%EB%84%A4%EC%9E%84%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4.png?raw=true" width="800px">
+  <summary>4. 테스트 코드 성공 유무 확인</summary>
+
+  <img src="https://github.com/jaesangE/git-test/blob/main/assets/3.Unit-test%EA%B2%B0%EA%B3%BC.png?raw=true" width="800px">
 
 </details>
 
@@ -649,7 +647,7 @@ spec:
 
 
 
-# 9. 회고
+# 8. 회고
 | 이름                                    | 회고 내용                                           |
 |--------------|-----------------------------------------------------------------------------------------------------------------|
 |      김민수        |                 |
