@@ -531,16 +531,12 @@ spec:
 
 # 8. 배포 결과
 
-2. 젠킨스
 <img src="https://github.com/jaesangE/git-test/blob/main/assets/2.%EC%A0%A0%ED%82%A8%EC%8A%A4.gif?raw=true" width="1000px">
 
-6. 백엔드 Sync
 <img src="https://github.com/jaesangE/git-test/blob/main/assets/6.%EB%B0%B1%EC%97%94%EB%93%9CSync.gif?raw=true" width="1000px">
 
-7. 프론트 Sync
 <img src="https://github.com/jaesangE/git-test/blob/main/assets/7.%ED%94%84%EB%A1%A0%ED%8A%B8Sync.gif?raw=true" width="1000px">
 
-16. API 테스트
 <img src="https://github.com/jaesangE/git-test/blob/main/assets/16.api%ED%85%8C%EC%8A%A4%ED%8A%B8.gif?raw=true" width="1000px">
 
 # 9. 회고
