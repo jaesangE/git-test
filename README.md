@@ -531,7 +531,8 @@ spec:
 
 # 8. 배포 결과
 
-<img src="https://github.com/jaesangE/git-test/blob/main/assets/2.%EC%A0%A0%ED%82%A8%EC%8A%A4.gif?raw=true" width="1000px">
+<img src="https://github.com/jaesangE/git-test/blob/main/assets/2%EC%A0%A0%ED%82%A8%EC%8A%A4.gif?raw=true" width="1000px">
+
 
 <img src="https://github.com/jaesangE/git-test/blob/main/assets/6.%EB%B0%B1%EC%97%94%EB%93%9CSync.gif?raw=true" width="1000px">
 
