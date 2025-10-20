@@ -1,4 +1,4 @@
-# be18-2nd-YuGuanZhang-Lumi
+# be18-4th-FiveGuys-Lumi
 
 # Lumi
 
@@ -63,6 +63,7 @@
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-FE4B74?style=for-the-badge&logo=argo&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Hub](https://img.shields.io/badge/Docker%20Hub-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ✓ Infra 
 
